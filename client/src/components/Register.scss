@@ -1,0 +1,16 @@
+.register {
+    width: 50vw;
+    height: fit-content;
+    padding-bottom: 50px;
+    background-color: rgb(95, 163, 184);
+    color: rgb(54, 51, 51);
+    border-radius: 40px;
+    margin: auto;
+    text-align: center;
+    form {
+        display: flex;
+    }
+    div {
+        padding: 10px;
+    }
+}
